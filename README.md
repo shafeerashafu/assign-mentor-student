@@ -33,3 +33,13 @@ Method : GET with path param(studentId)
 
 BE URL : https://assign-mentor-student-4xgj.onrender.com/assignserver/previous-mentor-for-student/:studentId
 
+7. Getting all mentors created
+Method : GET
+
+BE URL : https://assign-mentor-student-4xgj.onrender.com/mentor
+
+8. Getting all students created
+Method : GET
+
+BE URL : https://assign-mentor-student-4xgj.onrender.com/student
+
